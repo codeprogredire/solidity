@@ -1,1 +1,1 @@
-# This repo contains written while learning solidity.
+# This repo contains codes written while learning solidity.
